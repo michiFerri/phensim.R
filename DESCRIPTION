@@ -1,0 +1,14 @@
+Package: phensim.R
+Type: Package
+Title: PHENSIM wrapper R package
+Version: 0.1.0
+Author: Michele Ferrigno
+Maintainer: Michele Ferrigno <miferrca@msn.com>
+Description: phensim.R is a command line wrapper package for PHENSIM service.
+    For more details check the guidelines.
+License: GPL (>= 2)
+Encoding: UTF-8
+Imports: httr, jsonlite, rlang, data.table
+RoxygenNote: 7.1.2
+NeedsCompilation: no
+Packaged: 2022-11-30 16:53:54 UTC; mifer
